@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5B3CA589-6A11-4461-9223-5305758E2891"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "27F2ED18-1021-412E-82F3-4739DD16B51A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PersonalQuiz/ViewControllers/QuestionsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "27F2ED18-1021-412E-82F3-4739DD16B51A - 250637dcb50ba998"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PersonalQuiz.QuestionsViewController.__deallocating_deinit"
+                  moduleName = "PersonalQuiz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shared/Previously%20Relocated%20Items/Security/Development/Swiftbook%20%D0%B2%D0%B5%D0%B1%D0%B8%D0%BD%D0%B0%D1%80/Swiftbook%20%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B/Lesson%205/PersonalQuiz/PersonalQuiz/ViewControllers/QuestionsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "27F2ED18-1021-412E-82F3-4739DD16B51A - 9c0c71ee6124b15a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PersonalQuiz.QuestionsViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; PersonalQuiz.QuestionsViewController"
+                  moduleName = "PersonalQuiz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shared/Previously%20Relocated%20Items/Security/Development/Swiftbook%20%D0%B2%D0%B5%D0%B1%D0%B8%D0%BD%D0%B0%D1%80/Swiftbook%20%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B/Lesson%205/PersonalQuiz/PersonalQuiz/ViewControllers/QuestionsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "27F2ED18-1021-412E-82F3-4739DD16B51A - 34d9aee2f4303ae5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PersonalQuiz.QuestionsViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; PersonalQuiz.QuestionsViewController"
+                  moduleName = "PersonalQuiz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shared/Previously%20Relocated%20Items/Security/Development/Swiftbook%20%D0%B2%D0%B5%D0%B1%D0%B8%D0%BD%D0%B0%D1%80/Swiftbook%20%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B/Lesson%205/PersonalQuiz/PersonalQuiz/ViewControllers/QuestionsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "464">
+               </Location>
+               <Location
+                  uuid = "27F2ED18-1021-412E-82F3-4739DD16B51A - 3fd7871f43235e8e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PersonalQuiz.QuestionsViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;PersonalQuiz.QuestionsViewController&gt;"
+                  moduleName = "PersonalQuiz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shared/Previously%20Relocated%20Items/Security/Development/Swiftbook%20%D0%B2%D0%B5%D0%B1%D0%B8%D0%BD%D0%B0%D1%80/Swiftbook%20%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B/Lesson%205/PersonalQuiz/PersonalQuiz/ViewControllers/QuestionsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "27F2ED18-1021-412E-82F3-4739DD16B51A - 7d49bf8b63373abd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PersonalQuiz.QuestionsViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;PersonalQuiz.QuestionsViewController&gt;"
+                  moduleName = "PersonalQuiz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shared/Previously%20Relocated%20Items/Security/Development/Swiftbook%20%D0%B2%D0%B5%D0%B1%D0%B8%D0%BD%D0%B0%D1%80/Swiftbook%20%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B/Lesson%205/PersonalQuiz/PersonalQuiz/ViewControllers/QuestionsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "405">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
